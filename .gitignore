@@ -1,0 +1,19 @@
+# Ignore build artifacts
+build/
+*.exe
+*.out
+*.obj
+*.o
+
+# CMake-related
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Font files (optional - if not needed in repo)
+*.ttf
+
+# VS Code settings (optional)
+.vscode/
